@@ -68,7 +68,6 @@ export default class Posts extends Component {
             <div className="left">
                 {items}
             </div>
-
         )
     }
 }
